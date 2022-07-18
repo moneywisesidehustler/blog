@@ -1,0 +1,7 @@
+[submodule "moneywisesidehustlerblog/public"]
+	path = moneywisesidehustlerblog/public
+	url = https://github.com/moneywisesidehustler/moneywisesidehustler.github.io.git
+	branch = main
+[submodule "moneywisesidehustlerblog/themes/blist"]
+	path = moneywisesidehustlerblog/themes/blist
+	url = https://github.com/apvarun/blist-hugo-theme.git
