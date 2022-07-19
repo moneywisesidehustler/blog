@@ -1,4 +1,4 @@
-baseURL = 'http://moneywisesidehustler.tripwiretech.com/'
+baseURL = 'https://moneywisesidehustler.tripwiretech.com/'
 languageCode = 'en-us'
 title = 'Money-Wise Side Hustler Blog'
 theme = 'blist'
@@ -52,13 +52,8 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params xommon for both languages
   title = "Follow me"
-  twitter = "https://twitter.com/"
-  linkedin = "https://linkedin.com/in/"
-  xing = "https://www.xing.com/profile/"
-  github = "https://github.com/"
-  medium = "https://medium.com/"
-  reddit = "https://reddit.com/"
-  dribbble = "https://dribbble.com/"
+  instagram = "https://www.instagram.com/curlingcharlz/"
+  youtube = "https://www.youtube.com/channel/UCfrcL4MPzcKguuREEQfEkOA"
 
 [[menu.main]]
   name = "About"
